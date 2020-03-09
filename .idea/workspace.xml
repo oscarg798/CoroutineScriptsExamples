@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d344523d-9de5-43b9-b030-3cfd554b425e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtdPPMK1gHAw4I3hf4g7b1yXNK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d344523d-9de5-43b9-b030-3cfd554b425e" name="Default Changelist" comment="" />
+      <created>1583765800395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583765800395</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1583765804535">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state x="517" y="321" key="com.intellij.ide.util.TipDialog/1680.-209.2560.1417/0.23.1680.932@0.23.1680.932" timestamp="1583765804535" />
+  </component>
+</project>
